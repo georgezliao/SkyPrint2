@@ -1,0 +1,16 @@
+{
+  "waypoints": [
+    {"latitude": 40.6413, "longitude": -73.7781, "altitude_ft": 0, "time": "2025-06-15T14:00:00Z"},
+    {"latitude": 40.80, "longitude": -74.50, "altitude_ft": 15000, "time": "2025-06-15T14:15:00Z"},
+    {"latitude": 41.00, "longitude": -76.00, "altitude_ft": 35000, "time": "2025-06-15T14:30:00Z"},
+    {"latitude": 40.50, "longitude": -80.00, "altitude_ft": 35000, "time": "2025-06-15T15:00:00Z"},
+    {"latitude": 39.50, "longitude": -85.00, "altitude_ft": 35000, "time": "2025-06-15T15:30:00Z"},
+    {"latitude": 38.00, "longitude": -90.00, "altitude_ft": 35000, "time": "2025-06-15T16:00:00Z"},
+    {"latitude": 36.50, "longitude": -95.00, "altitude_ft": 35000, "time": "2025-06-15T16:30:00Z"},
+    {"latitude": 35.00, "longitude": -100.00, "altitude_ft": 35000, "time": "2025-06-15T17:00:00Z"},
+    {"latitude": 34.20, "longitude": -115.00, "altitude_ft": 15000, "time": "2025-06-15T18:15:00Z"},
+    {"latitude": 33.9425, "longitude": -118.4081, "altitude_ft": 0, "time": "2025-06-15T18:30:00Z"}
+  ],
+  "aircraft_type": "B738",
+  "flight_id": "test-jfk-lax"
+}

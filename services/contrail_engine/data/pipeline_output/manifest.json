@@ -1,0 +1,1378 @@
+{
+  "n_flights": 151,
+  "window": {
+    "start": "2026-04-01T00:00:00Z",
+    "end": "2026-04-14T00:00:00Z"
+  },
+  "hero": "AAL100",
+  "airline_counts": {
+    "DAL": 53,
+    "KLM": 8,
+    "BAW": 28,
+    "VIR": 18,
+    "AAL": 22,
+    "DLH": 6,
+    "AFR": 16
+  },
+  "flights": [
+    {
+      "icao24": "a13391",
+      "callsign": "DAL44",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EIDW",
+      "first_seen": 1775008355,
+      "last_seen": 1775028293
+    },
+    {
+      "icao24": "485f84",
+      "callsign": "KLM644",
+      "airline": "KLM",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775007473,
+      "last_seen": 1775029828
+    },
+    {
+      "icao24": "400685",
+      "callsign": "BAW172",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775006398,
+      "last_seen": 1775029124
+    },
+    {
+      "icao24": "4077d3",
+      "callsign": "VIR154",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775006196,
+      "last_seen": 1775027578
+    },
+    {
+      "icao24": "ab4bf7",
+      "callsign": "DAL126",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LEMD",
+      "first_seen": 1775005866,
+      "last_seen": 1775030089
+    },
+    {
+      "icao24": "ab7376",
+      "callsign": "DAL52",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LSZH",
+      "first_seen": 1775005787,
+      "last_seen": 1775030586
+    },
+    {
+      "icao24": "407992",
+      "callsign": "BAW116",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775005397,
+      "last_seen": 1775027242
+    },
+    {
+      "icao24": "a4dbef",
+      "callsign": "DAL272",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LPPT",
+      "first_seen": 1775003295,
+      "last_seen": 1775025299
+    },
+    {
+      "icao24": "aaee43",
+      "callsign": "DAL266",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775003093,
+      "last_seen": 1775025959
+    },
+    {
+      "icao24": "abbb2c",
+      "callsign": "DAL1",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775002940,
+      "last_seen": 1775024879
+    },
+    {
+      "icao24": "40641d",
+      "callsign": "VIR128K",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGCC",
+      "first_seen": 1775002641,
+      "last_seen": 1775023704
+    },
+    {
+      "icao24": "ab349f",
+      "callsign": "AAL236",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LIRF",
+      "first_seen": 1775002109,
+      "last_seen": 1775029709
+    },
+    {
+      "icao24": "407e21",
+      "callsign": "VIR138M",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775015404,
+      "last_seen": 1775037988
+    },
+    {
+      "icao24": "407979",
+      "callsign": "BAW18A",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775012672,
+      "last_seen": 1775034710
+    },
+    {
+      "icao24": "ab84ab",
+      "callsign": "DAL264",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775012217,
+      "last_seen": 1775035077
+    },
+    {
+      "icao24": "a4ce71",
+      "callsign": "DAL48",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775011997,
+      "last_seen": 1775034680
+    },
+    {
+      "icao24": "a50e93",
+      "callsign": "DAL3",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775011813,
+      "last_seen": 1775034262
+    },
+    {
+      "icao24": "3c64f3",
+      "callsign": "DLH405",
+      "airline": "DLH",
+      "dep": "KJFK",
+      "arr": "EDDF",
+      "first_seen": 1775010812,
+      "last_seen": 1775035596
+    },
+    {
+      "icao24": "3965a0",
+      "callsign": "AFR007",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775009207,
+      "last_seen": 1775031883
+    },
+    {
+      "icao24": "39d2b2",
+      "callsign": "AFR11E",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775020835,
+      "last_seen": 1775043238
+    },
+    {
+      "icao24": "ab4489",
+      "callsign": "DAL176",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EIDW",
+      "first_seen": 1775018085,
+      "last_seen": 1775037680
+    },
+    {
+      "icao24": "40621b",
+      "callsign": "BAW14K",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775016321,
+      "last_seen": 1775038690
+    },
+    {
+      "icao24": "406b48",
+      "callsign": "VIR26Q",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775046277,
+      "last_seen": 1775067438
+    },
+    {
+      "icao24": "4005ba",
+      "callsign": "BAW178",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775045362,
+      "last_seen": 1775066897
+    },
+    {
+      "icao24": "a9c508",
+      "callsign": "AAL142",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775052506,
+      "last_seen": 1775073543
+    },
+    {
+      "icao24": "394a09",
+      "callsign": "AFR003",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775080768,
+      "last_seen": 1775102878
+    },
+    {
+      "icao24": "ab398a",
+      "callsign": "DAL182",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LIRF",
+      "first_seen": 1775079323,
+      "last_seen": 1775107065
+    },
+    {
+      "icao24": "394a05",
+      "callsign": "AFR1U",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775078246,
+      "last_seen": 1775100315
+    },
+    {
+      "icao24": "485f84",
+      "callsign": "KLM642",
+      "airline": "KLM",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775078097,
+      "last_seen": 1775098962
+    },
+    {
+      "icao24": "a15397",
+      "callsign": "DAL218",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EKCH",
+      "first_seen": 1775077751,
+      "last_seen": 1775101973
+    },
+    {
+      "icao24": "aace5c",
+      "callsign": "AAL94",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LEMD",
+      "first_seen": 1775077550,
+      "last_seen": 1775100178
+    },
+    {
+      "icao24": "3c651a",
+      "callsign": "DLH401",
+      "airline": "DLH",
+      "dep": "KJFK",
+      "arr": "EDDF",
+      "first_seen": 1775075236,
+      "last_seen": 1775098858
+    },
+    {
+      "icao24": "484560",
+      "callsign": "KLM646",
+      "airline": "KLM",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775087656,
+      "last_seen": 1775109144
+    },
+    {
+      "icao24": "ab4866",
+      "callsign": "DAL128",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LEBL",
+      "first_seen": 1775086085,
+      "last_seen": 1775110166
+    },
+    {
+      "icao24": "394a06",
+      "callsign": "AFR5U",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775085998,
+      "last_seen": 1775107967
+    },
+    {
+      "icao24": "4005c0",
+      "callsign": "BAW11J",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775085903,
+      "last_seen": 1775107399
+    },
+    {
+      "icao24": "406a34",
+      "callsign": "BAW40F",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775085039,
+      "last_seen": 1775106709
+    },
+    {
+      "icao24": "abb007",
+      "callsign": "DAL106",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EDDF",
+      "first_seen": 1775084547,
+      "last_seen": 1775108182
+    },
+    {
+      "icao24": "407ed8",
+      "callsign": "VIR10H",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775084390,
+      "last_seen": 1775106518
+    },
+    {
+      "icao24": "408120",
+      "callsign": "VIR4C",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775084069,
+      "last_seen": 1775106795
+    },
+    {
+      "icao24": "ab321c",
+      "callsign": "DAL46",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775083925,
+      "last_seen": 1775106736
+    },
+    {
+      "icao24": "a9c151",
+      "callsign": "AAL100",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775083857,
+      "last_seen": 1775106176
+    },
+    {
+      "icao24": "aad213",
+      "callsign": "AAL42",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775082491,
+      "last_seen": 1775105617
+    },
+    {
+      "icao24": "4077d4",
+      "callsign": "VIR154",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775093906,
+      "last_seen": 1775115622
+    },
+    {
+      "icao24": "407995",
+      "callsign": "BAW116",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775093549,
+      "last_seen": 1775114992
+    },
+    {
+      "icao24": "4005be",
+      "callsign": "BAW172",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775093478,
+      "last_seen": 1775115886
+    },
+    {
+      "icao24": "ab84ab",
+      "callsign": "DAL52",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LSZH",
+      "first_seen": 1775092638,
+      "last_seen": 1775117216
+    },
+    {
+      "icao24": "ab7376",
+      "callsign": "DAL126",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LEMD",
+      "first_seen": 1775091730,
+      "last_seen": 1775113859
+    },
+    {
+      "icao24": "ab40f8",
+      "callsign": "DAL266",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775091123,
+      "last_seen": 1775113244
+    },
+    {
+      "icao24": "abbee3",
+      "callsign": "DAL1",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775090884,
+      "last_seen": 1775112718
+    },
+    {
+      "icao24": "ab5c12",
+      "callsign": "AAL236",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LIRF",
+      "first_seen": 1775089776,
+      "last_seen": 1775115867
+    },
+    {
+      "icao24": "4005c1",
+      "callsign": "BAW176A",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775089367,
+      "last_seen": 1775110759
+    },
+    {
+      "icao24": "407979",
+      "callsign": "BAW180",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775089083,
+      "last_seen": 1775109959
+    },
+    {
+      "icao24": "a4dbef",
+      "callsign": "DAL230",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LIRF",
+      "first_seen": 1775089004,
+      "last_seen": 1775117174
+    },
+    {
+      "icao24": "aaf0c6",
+      "callsign": "AAL66",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LEBL",
+      "first_seen": 1775088627,
+      "last_seen": 1775112354
+    },
+    {
+      "icao24": "ab1d30",
+      "callsign": "DAL262",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775088404,
+      "last_seen": 1775110556
+    },
+    {
+      "icao24": "abac2c",
+      "callsign": "AAL106",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775088263,
+      "last_seen": 1775109179
+    },
+    {
+      "icao24": "407e21",
+      "callsign": "VIR138M",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775101732,
+      "last_seen": 1775122962
+    },
+    {
+      "icao24": "39cf10",
+      "callsign": "AFR009",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775101485,
+      "last_seen": 1775123844
+    },
+    {
+      "icao24": "ab4fae",
+      "callsign": "DAL264",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775100068,
+      "last_seen": 1775121779
+    },
+    {
+      "icao24": "407898",
+      "callsign": "BAW18A",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775099845,
+      "last_seen": 1775121534
+    },
+    {
+      "icao24": "a52ea4",
+      "callsign": "DAL272",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LPPT",
+      "first_seen": 1775098983,
+      "last_seen": 1775120819
+    },
+    {
+      "icao24": "3c64f6",
+      "callsign": "DLH405",
+      "airline": "DLH",
+      "dep": "KJFK",
+      "arr": "EDDF",
+      "first_seen": 1775098054,
+      "last_seen": 1775121853
+    },
+    {
+      "icao24": "407994",
+      "callsign": "BAW14K",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775097497,
+      "last_seen": 1775119431
+    },
+    {
+      "icao24": "a4ee82",
+      "callsign": "DAL3",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775096827,
+      "last_seen": 1775119886
+    },
+    {
+      "icao24": "485f82",
+      "callsign": "KLM644",
+      "airline": "KLM",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775095934,
+      "last_seen": 1775117787
+    },
+    {
+      "icao24": "3965a3",
+      "callsign": "AFR007",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775095865,
+      "last_seen": 1775118404
+    },
+    {
+      "icao24": "a0f46f",
+      "callsign": "DAL44",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EIDW",
+      "first_seen": 1775095617,
+      "last_seen": 1775114717
+    },
+    {
+      "icao24": "39d2b3",
+      "callsign": "AFR11E",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775107666,
+      "last_seen": 1775129934
+    },
+    {
+      "icao24": "406d4d",
+      "callsign": "VIR26Q",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775133360,
+      "last_seen": 1775152872
+    },
+    {
+      "icao24": "4005bb",
+      "callsign": "BAW178",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775132421,
+      "last_seen": 1775153904
+    },
+    {
+      "icao24": "a9e167",
+      "callsign": "AAL142",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775139116,
+      "last_seen": 1775159766
+    },
+    {
+      "icao24": "485345",
+      "callsign": "KLM642",
+      "airline": "KLM",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775164083,
+      "last_seen": 1775185895
+    },
+    {
+      "icao24": "3949ec",
+      "callsign": "AFR1U",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775163994,
+      "last_seen": 1775186414
+    },
+    {
+      "icao24": "a1863b",
+      "callsign": "DAL218",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EKCH",
+      "first_seen": 1775163273,
+      "last_seen": 1775187235
+    },
+    {
+      "icao24": "aad213",
+      "callsign": "AAL94",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LEMD",
+      "first_seen": 1775162830,
+      "last_seen": 1775185726
+    },
+    {
+      "icao24": "3c651a",
+      "callsign": "DLH401",
+      "airline": "DLH",
+      "dep": "KJFK",
+      "arr": "EDDF",
+      "first_seen": 1775162234,
+      "last_seen": 1775185905
+    },
+    {
+      "icao24": "ab0969",
+      "callsign": "AAL66",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LEBL",
+      "first_seen": 1775174039,
+      "last_seen": 1775198589
+    },
+    {
+      "icao24": "a4dbef",
+      "callsign": "DAL230",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LIRF",
+      "first_seen": 1775173827,
+      "last_seen": 1775200949
+    },
+    {
+      "icao24": "ab8b0b",
+      "callsign": "AAL106",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775173519,
+      "last_seen": 1775194731
+    },
+    {
+      "icao24": "aafd1f",
+      "callsign": "DAL128",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LEBL",
+      "first_seen": 1775173325,
+      "last_seen": 1775197918
+    },
+    {
+      "icao24": "407992",
+      "callsign": "BAW180",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775173266,
+      "last_seen": 1775194466
+    },
+    {
+      "icao24": "406a34",
+      "callsign": "BAW40F",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775170886,
+      "last_seen": 1775192622
+    },
+    {
+      "icao24": "abc29a",
+      "callsign": "DAL106",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EDDF",
+      "first_seen": 1775170807,
+      "last_seen": 1775194755
+    },
+    {
+      "icao24": "408121",
+      "callsign": "VIR10H",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775170404,
+      "last_seen": 1775191829
+    },
+    {
+      "icao24": "394a04",
+      "callsign": "AFR5U",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775170143,
+      "last_seen": 1775192628
+    },
+    {
+      "icao24": "a9bd9a",
+      "callsign": "AAL100",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775169562,
+      "last_seen": 1775192566
+    },
+    {
+      "icao24": "ab1d30",
+      "callsign": "DAL46",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775169381,
+      "last_seen": 1775192726
+    },
+    {
+      "icao24": "a16c3a",
+      "callsign": "DAL204",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "ESSA",
+      "first_seen": 1775168425,
+      "last_seen": 1775193804
+    },
+    {
+      "icao24": "aa9093",
+      "callsign": "AAL42",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775168262,
+      "last_seen": 1775190568
+    },
+    {
+      "icao24": "ab538b",
+      "callsign": "DAL182",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LIRF",
+      "first_seen": 1775167397,
+      "last_seen": 1775194584
+    },
+    {
+      "icao24": "3965aa",
+      "callsign": "AFR003",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775167328,
+      "last_seen": 1775189369
+    },
+    {
+      "icao24": "406591",
+      "callsign": "BAW116",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775181200,
+      "last_seen": 1775202551
+    },
+    {
+      "icao24": "3965a4",
+      "callsign": "AFR007",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775180904,
+      "last_seen": 1775202987
+    },
+    {
+      "icao24": "486071",
+      "callsign": "KLM644",
+      "airline": "KLM",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775180834,
+      "last_seen": 1775203340
+    },
+    {
+      "icao24": "4006c0",
+      "callsign": "BAW172",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775180343,
+      "last_seen": 1775202805
+    },
+    {
+      "icao24": "a16273",
+      "callsign": "DAL44",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EIDW",
+      "first_seen": 1775180029,
+      "last_seen": 1775199989
+    },
+    {
+      "icao24": "407dc5",
+      "callsign": "VIR154",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775179660,
+      "last_seen": 1775202290
+    },
+    {
+      "icao24": "ab6c08",
+      "callsign": "DAL52",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LSZH",
+      "first_seen": 1775179582,
+      "last_seen": 1775204267
+    },
+    {
+      "icao24": "abb775",
+      "callsign": "DAL1",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775179504,
+      "last_seen": 1775201729
+    },
+    {
+      "icao24": "ab6afa",
+      "callsign": "AAL236",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LIRF",
+      "first_seen": 1775177632,
+      "last_seen": 1775203918
+    },
+    {
+      "icao24": "ab80f4",
+      "callsign": "DAL126",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LEMD",
+      "first_seen": 1775177291,
+      "last_seen": 1775200433
+    },
+    {
+      "icao24": "40808c",
+      "callsign": "VIR128K",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGCC",
+      "first_seen": 1775176931,
+      "last_seen": 1775196909
+    },
+    {
+      "icao24": "a4c34c",
+      "callsign": "DAL272",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LPPT",
+      "first_seen": 1775175955,
+      "last_seen": 1775198856
+    },
+    {
+      "icao24": "400773",
+      "callsign": "BAW176A",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775174475,
+      "last_seen": 1775196175
+    },
+    {
+      "icao24": "407e21",
+      "callsign": "VIR138M",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775188776,
+      "last_seen": 1775210622
+    },
+    {
+      "icao24": "4080bb",
+      "callsign": "BAW18A",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775185513,
+      "last_seen": 1775207304
+    },
+    {
+      "icao24": "ab84ab",
+      "callsign": "DAL264",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775184844,
+      "last_seen": 1775207459
+    },
+    {
+      "icao24": "3c64f3",
+      "callsign": "DLH405",
+      "airline": "DLH",
+      "dep": "KJFK",
+      "arr": "EDDF",
+      "first_seen": 1775184025,
+      "last_seen": 1775208482
+    },
+    {
+      "icao24": "a4c703",
+      "callsign": "DAL48",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775183839,
+      "last_seen": 1775205838
+    },
+    {
+      "icao24": "4065de",
+      "callsign": "BAW14K",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775182784,
+      "last_seen": 1775204369
+    },
+    {
+      "icao24": "a50725",
+      "callsign": "DAL3",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775182444,
+      "last_seen": 1775204295
+    },
+    {
+      "icao24": "39d2af",
+      "callsign": "AFR11E",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775195494,
+      "last_seen": 1775217929
+    },
+    {
+      "icao24": "406d4d",
+      "callsign": "VIR26Q",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775219951,
+      "last_seen": 1775241136
+    },
+    {
+      "icao24": "400610",
+      "callsign": "BAW178",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775218658,
+      "last_seen": 1775240364
+    },
+    {
+      "icao24": "a9d640",
+      "callsign": "AAL142",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775229405,
+      "last_seen": 1775250368
+    },
+    {
+      "icao24": "3965a2",
+      "callsign": "AFR003",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775253518,
+      "last_seen": 1775275798
+    },
+    {
+      "icao24": "485b43",
+      "callsign": "KLM642",
+      "airline": "KLM",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775252029,
+      "last_seen": 1775273627
+    },
+    {
+      "icao24": "aa2184",
+      "callsign": "AAL94",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LEMD",
+      "first_seen": 1775251559,
+      "last_seen": 1775274790
+    },
+    {
+      "icao24": "a1863b",
+      "callsign": "DAL218",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EKCH",
+      "first_seen": 1775251174,
+      "last_seen": 1775274969
+    },
+    {
+      "icao24": "3949f4",
+      "callsign": "AFR1U",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775250754,
+      "last_seen": 1775273164
+    },
+    {
+      "icao24": "3c6519",
+      "callsign": "DLH401",
+      "airline": "DLH",
+      "dep": "KJFK",
+      "arr": "EDDF",
+      "first_seen": 1775250008,
+      "last_seen": 1775273893
+    },
+    {
+      "icao24": "abb3be",
+      "callsign": "DAL106",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EDDF",
+      "first_seen": 1775260145,
+      "last_seen": 1775283861
+    },
+    {
+      "icao24": "aaf968",
+      "callsign": "DAL128",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LEBL",
+      "first_seen": 1775259955,
+      "last_seen": 1775283592
+    },
+    {
+      "icao24": "3965af",
+      "callsign": "AFR5U",
+      "airline": "AFR",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775259779,
+      "last_seen": 1775281926
+    },
+    {
+      "icao24": "406591",
+      "callsign": "BAW40F",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775259418,
+      "last_seen": 1775281068
+    },
+    {
+      "icao24": "4006c0",
+      "callsign": "BAW11J",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775258766,
+      "last_seen": 1775280671
+    },
+    {
+      "icao24": "4075b4",
+      "callsign": "VIR10H",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775258408,
+      "last_seen": 1775279887
+    },
+    {
+      "icao24": "ab398a",
+      "callsign": "DAL46",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775257738,
+      "last_seen": 1775280315
+    },
+    {
+      "icao24": "a9bd9a",
+      "callsign": "AAL100",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775256628,
+      "last_seen": 1775279038
+    },
+    {
+      "icao24": "ab3d41",
+      "callsign": "DAL182",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LIRF",
+      "first_seen": 1775256189,
+      "last_seen": 1775282740
+    },
+    {
+      "icao24": "408120",
+      "callsign": "VIR4C",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775255938,
+      "last_seen": 1775278977
+    },
+    {
+      "icao24": "ab599b",
+      "callsign": "DAL9896",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775255618,
+      "last_seen": 1775278328
+    },
+    {
+      "icao24": "aaaa92",
+      "callsign": "AAL42",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775255406,
+      "last_seen": 1775277683
+    },
+    {
+      "icao24": "408121",
+      "callsign": "VIR154",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775267360,
+      "last_seen": 1775289648
+    },
+    {
+      "icao24": "ab4840",
+      "callsign": "DAL52",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LSZH",
+      "first_seen": 1775267126,
+      "last_seen": 1775292657
+    },
+    {
+      "icao24": "407995",
+      "callsign": "BAW116",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775267032,
+      "last_seen": 1775288550
+    },
+    {
+      "icao24": "abca08",
+      "callsign": "DAL1",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775266436,
+      "last_seen": 1775289051
+    },
+    {
+      "icao24": "400683",
+      "callsign": "BAW172",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775266252,
+      "last_seen": 1775287896
+    },
+    {
+      "icao24": "ab84ab",
+      "callsign": "DAL126",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LEMD",
+      "first_seen": 1775265295,
+      "last_seen": 1775287493
+    },
+    {
+      "icao24": "ac291f",
+      "callsign": "AAL66",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LEBL",
+      "first_seen": 1775264819,
+      "last_seen": 1775288076
+    },
+    {
+      "icao24": "485000",
+      "callsign": "KLM646",
+      "airline": "KLM",
+      "dep": "KJFK",
+      "arr": "EHAM",
+      "first_seen": 1775264542,
+      "last_seen": 1775285994
+    },
+    {
+      "icao24": "4066ab",
+      "callsign": "VIR128K",
+      "airline": "VIR",
+      "dep": "KJFK",
+      "arr": "EGCC",
+      "first_seen": 1775264359,
+      "last_seen": 1775285527
+    },
+    {
+      "icao24": "ab249e",
+      "callsign": "DAL266",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775263763,
+      "last_seen": 1775286777
+    },
+    {
+      "icao24": "ab4e94",
+      "callsign": "AAL236",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "LIRF",
+      "first_seen": 1775262905,
+      "last_seen": 1775288872
+    },
+    {
+      "icao24": "a544ee",
+      "callsign": "DAL272",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LPPT",
+      "first_seen": 1775262753,
+      "last_seen": 1775284240
+    },
+    {
+      "icao24": "ab8748",
+      "callsign": "AAL106",
+      "airline": "AAL",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775262085,
+      "last_seen": 1775283576
+    },
+    {
+      "icao24": "4005b9",
+      "callsign": "BAW176A",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775261645,
+      "last_seen": 1775283047
+    },
+    {
+      "icao24": "ab538b",
+      "callsign": "DAL262",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LFPG",
+      "first_seen": 1775261233,
+      "last_seen": 1775284199
+    },
+    {
+      "icao24": "a4c34c",
+      "callsign": "DAL230",
+      "airline": "DAL",
+      "dep": "KJFK",
+      "arr": "LIRF",
+      "first_seen": 1775261076,
+      "last_seen": 1775287927
+    },
+    {
+      "icao24": "40621d",
+      "callsign": "BAW180",
+      "airline": "BAW",
+      "dep": "KJFK",
+      "arr": "EGLL",
+      "first_seen": 1775260870,
+      "last_seen": 1775281886
+    }
+  ]
+}

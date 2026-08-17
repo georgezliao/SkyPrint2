@@ -1,0 +1,14 @@
+services:
+  contrail-engine:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - CONTRAIL_WEATHER_PROVIDER=gfs_pycontrails
+      - CONTRAIL_LOG_LEVEL=INFO
+    volumes:
+      - weather-cache:/tmp/skyprint_weather_cache
+    restart: unless-stopped
+
+volumes:
+  weather-cache:

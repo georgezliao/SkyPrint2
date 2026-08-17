@@ -1,0 +1,12 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.0
+pydantic-settings>=2.0
+pycontrails[ecmwf,gfs]>=0.61.0
+pandas>=2.0
+numpy>=1.24
+xarray>=2023.0
+httpx>=0.27.0
+cachetools>=5.3
+cdsapi>=0.7.7
+requests>=2.31
